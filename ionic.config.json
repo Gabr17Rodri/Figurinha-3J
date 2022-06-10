@@ -1,0 +1,7 @@
+{
+  "name": "Figurinha",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
